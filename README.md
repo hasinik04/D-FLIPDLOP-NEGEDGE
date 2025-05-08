@@ -40,5 +40,5 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-
+ 
 **RESULTS**
